@@ -18,4 +18,4 @@ I am building practical skills that will help me contribute to open-source proje
 My practice projects for technical documentation and open-source collaboration.
 ## What I Am Learning
 
-I am learning how to contribute to open-source projects through documentation, research, user support, and collaboration on GitHub.
+I am developing skills in technical documentation, research, user support, and open-source collaboration.
